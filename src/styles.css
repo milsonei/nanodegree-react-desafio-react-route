@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+button:disabled {
+  cursor: not-allowed;
+  color: lightgray;
+}
+ul li {
+  list-style: none;
+}
+.App-header {
+  padding: 5px;
+  font-size: 1.5em;
+  text-align: center;
+}
